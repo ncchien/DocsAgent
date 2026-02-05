@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Database
+chroma_db/
+
+# OS
+.DS_Store
+
+# Local/Temporary
+uploads/*
+!uploads/.gitkeep
+test_ingest.py
+a.pdf
+test_doc.pdf
