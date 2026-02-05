@@ -17,7 +17,7 @@ chroma_db/
 .DS_Store
 
 # Local/Temporary
-uploads/*
+**/uploads/*
 !uploads/.gitkeep
 test_ingest.py
 a.pdf
